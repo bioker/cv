@@ -10,19 +10,32 @@ Constantly improve myself by learning fundamental and innovative things in both 
 
 ### Skills
 
+Languages (sorted by the grade of knowledge):
+> Java, Python, JavaScript, Groovy, Scala, C
 
+Technologies:
+> Containerization, Containers orchestration, Relational databases, Message brokers
+> In-memory databases, Non-relational databases, Load balancers, Web servers, Cloud-based storages,
+> Big Data processing, Data pipelining, Data analytics tools, Web scraping, Data encryption, and compression,
+> Communication protocols, Web application, and data security.
+
+Architecture solutions:
+> Scalability improvements. Performance improvements. Monolith to microservices migration.
+> Event-driven solutions for analytical purposes.
 
 ### Experience
 
 > September 2018 - Present
 
 Java Developer at **betPawa**
+Tallinn, Estonia
 
 ******
 
 > March 2018 - September 2018
 
 Big Data Software Engineer at **EPAM**
+Russia, Saint Petersburg
 
 ******
 
@@ -35,7 +48,12 @@ Freelance Software Engineer via **Upwork**
 > October 2015 - March 2018
 
 Software Programmer at **Extracode** and **Ezwim**
+Krasnodar, Russia (Amsterdam, Netherlands)
 
 ### Education
 
-### General Information
+> 2010 - 2015
+
+Irkutsk Aviation Technical College
+Technician programmer, Computer Science
+Irkutsk, Russia
