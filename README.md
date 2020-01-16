@@ -11,17 +11,20 @@ Constantly improve myself by learning fundamental and innovative things in both 
 ### Skills
 
 Languages (sorted by the grade of knowledge):
-> Java, Python, JavaScript, Groovy, Scala, C
+> Java, Python, JavaScript, Bash, Groovy, Scala, C
 
 Technologies:
-> Containerization, Containers orchestration, Relational databases, Message brokers
-> In-memory databases, Non-relational databases, Load balancers, Web servers, Cloud-based storages,
-> Big Data processing, Data pipelining, Data analytics tools, Web scraping, Data encryption, and compression,
-> Communication protocols, Web application, and data security.
+> Containerization. Containers orchestration. Relational databases. Message brokers.
+> In-memory databases. Non-relational databases. Load balancers. Web servers. Cloud-based storages.
+> Big Data processing. Data pipelining. Data analytics tools. Web scraping. Data encryption and compression.
+> Communication protocols. Web applications and data security.
 
 Architecture solutions:
-> Scalability improvements. Performance improvements. Monolith to microservices migration.
-> Event-driven solutions for analytical purposes.
+> Architecture design. Refactoring planning. Scalability improvements. Performance improvements.
+> Monolith to microservices migration. Event-driven solutions for analytical purposes.
+
+Collaboration:
+> Agile methodologies, Kanban, Code review, Tasks decomposition, Mentoring.
 
 ### Experience
 
