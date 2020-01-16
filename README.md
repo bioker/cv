@@ -10,7 +10,7 @@ Constantly improve myself by learning fundamental and innovative things in both 
 
 ### Skills
 
-Languages (sorted by the grade of knowledge):
+Languages:
 > Java, Python, JavaScript, Bash, Groovy, Scala, C
 
 Technologies:
