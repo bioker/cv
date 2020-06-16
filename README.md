@@ -28,7 +28,14 @@ Collaboration:
 
 ### Experience
 
-> September 2018 - Present
+> March 2020 - Present
+
+Senior Java Engineer at **betPawa**
+Tallinn, Estonia
+
+******
+
+> September 2018 - March 2020
 
 Java Developer at **betPawa**
 Tallinn, Estonia
