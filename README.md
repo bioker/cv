@@ -18,8 +18,8 @@ Constantly improving soft and hard skills in order to achieve better efficiency 
 ### Skills
 
 Areas of expertise:
-- Infrastructure management in Cloud and On Premise environments (AWS, GCP, Hetzner)
-- CI/CD setup and maintenance
+- Infrastructure management in Cloud and On Premise environments (AWS, GCP, Hetzner via Ansible and Terraform)
+- CI/CD setup and maintenance (Jenkins, GitHub Actions)
 - Database management (Relational, NoSQL, Message brokers, etc)
 - Docker and containers management in general
 - Kubernetes administration, bootstrapping, and application deployment setup
