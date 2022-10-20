@@ -6,8 +6,10 @@ A devops engineer mostly specialized in backend applications development and sys
 Primary programming languages - Java, Python, and JavaScript.
 
 Experienced with:
-- different kinds of architectures like a monolith, microservices, event-driven, etc
-- high-loaded systems with over 1.5 million active users per month
+- different kinds of architecture approaches including monolith, microservices, and event-driven systems
+- high-loaded systems with over 1.5M active users per month
+- data storage management with configuring replication, clustering, and backup automation on databases with sizes exceeding 1TB
+- configuration of highly-available Kubernetes clusters with all the required components deployed via the GitOps approach
 - setting up reliable continuous integration pipelines and maintaining a good quality of the codebase
 - support operations on Kubernetes, Cloud, and on-premise environments
 - a variety of different tools and technologies for data processing, storage, transmitting, security configuration, and more
